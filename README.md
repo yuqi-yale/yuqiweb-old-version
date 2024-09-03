@@ -1,4 +1,4 @@
 # Yuqi-zju.github.io
-Click to view [Yuqi Zhao's Website][1]
+[Yuqi Zhao's Website][1]
 
-[1]: https://yuqi-zju.github.io
+[1]: https://yuqi-yale.github.io
